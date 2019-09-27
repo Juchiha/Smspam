@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735188332364",
+    "firebase_url": "https://smsspam-d2cfe.firebaseio.com",
+    "project_id": "smsspam-d2cfe",
+    "storage_bucket": "smsspam-d2cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735188332364:android:3dcc4e96e342bbc1",
+        "android_client_info": {
+          "package_name": "com.josegiron.smspam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735188332364-ea64v3jfc21ee9un2fqnrs9qt2kd77ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7v-yEUWuQKHxvAN_2bt1d5ZDuXOZ520"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735188332364-ea64v3jfc21ee9un2fqnrs9qt2kd77ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
